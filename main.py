@@ -4,7 +4,7 @@ import subprocess
 import shutil
 
 # Configuration
-WATCH_FOLDER = r"C:\Users\Lamelo\Pictures\Screenshots"  # Change this to the actual folder path
+WATCH_FOLDER = r""  # Change this to the actual folder path
 UPLOADED_FOLDER = os.path.join(WATCH_FOLDER, "uploaded")
 UPLOAD_URL = "https://projects.benax.rw/f/o/r/e/a/c/h/p/r/o/j/e/c/t/s/4e8d42b606f70fa9d39741a93ed0356c/iot_testing_202501/upload.php"
 
